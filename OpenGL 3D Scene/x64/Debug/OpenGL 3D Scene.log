@@ -1,0 +1,20 @@
+﻿  OpenGL 3D Scene.cpp
+C:\Users\david\OneDrive\Desktop\OpenGL 3D Scene\OpenGL 3D Scene\Camera.h(124,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\david\OneDrive\Desktop\OpenGL 3D Scene\OpenGL 3D Scene\Camera.h(125,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\david\OneDrive\Desktop\OpenGL 3D Scene\OpenGL 3D Scene\Camera.h(129,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\david\OneDrive\Desktop\OpenGL 3D Scene\OpenGL 3D Scene\Camera.h(130,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\david\OneDrive\Desktop\OpenGL 3D Scene\OpenGL 3D Scene\Camera.h(132,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\david\OneDrive\Desktop\OpenGL 3D Scene\OpenGL 3D Scene\Camera.h(133,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\david\OneDrive\Desktop\OpenGL 3D Scene\OpenGL 3D Scene\OpenGL 3D Scene.cpp(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\david\OneDrive\Desktop\OpenGL 3D Scene\OpenGL 3D Scene\OpenGL 3D Scene.cpp(165,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Scene.cpp
+C:\Users\david\OneDrive\Desktop\OpenGL 3D Scene\OpenGL 3D Scene\Scene.cpp(10,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Shapes.cpp
+C:\Users\david\OneDrive\Desktop\OpenGL 3D Scene\OpenGL 3D Scene\Shapes.cpp(329,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\david\OneDrive\Desktop\OpenGL 3D Scene\OpenGL 3D Scene\Shapes.cpp(343,82): warning C4267: '=': conversion from 'size_t' to 'GLuint', possible loss of data
+  Generating Code...
+  OpenGL 3D Scene.vcxproj -> C:\Users\david\OneDrive\Desktop\OpenGL 3D Scene\Debug\OpenGL 3D Scene.exe
